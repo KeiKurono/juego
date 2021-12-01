@@ -63,7 +63,7 @@ else {
    <div class="item-text">;
     <?php
     echo '<h3>Dia Uno</h3>
-        <p>dia no disponible</p>';
+        <p>Dia no disponible</p>';
 }
 ?>
     </div>
